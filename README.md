@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Eduardo%20Dominguez%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ING.%20Desarrollo%20y%20Gesti%C3%B3n%20de%20Software&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Eduardo%20Dominguez%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ING.%20Desarrollo%20y%20Gesti%C3%B3n%20de%20Software&descSize=18&descAlignY=55&textBg=false"/><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f415/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f415/512.gif" alt="🐕" width="32" height="32">
+</picture>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=eduardo539">
